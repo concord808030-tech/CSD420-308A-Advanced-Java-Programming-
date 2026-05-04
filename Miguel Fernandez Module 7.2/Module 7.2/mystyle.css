@@ -1,0 +1,17 @@
+/* New style */
+.whiteblack {
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: 3;
+}
+
+/* New*/
+#redfill {
+    -fx-fill: red;
+    -fx-stroke: black;
+}
+
+#greenfill {
+    -fx-fill: green;
+    -fx-stroke: black;
+}
